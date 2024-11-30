@@ -32,8 +32,8 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 - 🚀 I’m currently Building machine learning projects;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [blog.mendsalbert.com](https://mendsalbert-liart.vercel.app/blog);
-- 📫 How to reach me: mendsalbert.com;
-- 📝 [Resume](https://mendsalbert.com). 
+- 📫 How to reach me: https://my-portfolio-two-sigma-37.vercel.app/;
+- 📝 [Resume]((https://my-portfolio-two-sigma-37.vercel.app/)). 
 
 </br>
 
