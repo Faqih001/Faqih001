@@ -33,7 +33,7 @@ Hey there! I'm not just your data enthusiast; I'm also a software engineer and w
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [blog.fakiiahmad.com](https://dev.to/fakii254);
 - 📫 How to reach me: [fakiiahmad.com](https://my-portfolio-two-sigma-37.vercel.app/);
-- 📝 [Resume][https://my-portfolio-two-sigma-37.vercel.app/]. 
+- 📝 [Resume](https://my-portfolio-two-sigma-37.vercel.app/). 
 
 </br>
 
