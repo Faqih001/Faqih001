@@ -10,11 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mendsalbert.mendsalbert)
 
-Hey there! 👋 I'm a passionate Full Stack Developer, Graphic Designer, and a Machine Learning & AI enthusiast who loves transforming ideas into innovative solutions. 🚀 As an Innovator at Kabarak University and an Intern at HealthIT Organization, I’m committed to pushing boundaries in tech and healthcare.
-
-When I’m not coding dynamic web apps, designing eye-catching graphics, or training AI models, you’ll find me brainstorming the next big idea 💡 or enjoying a thought-provoking documentary. 🎥 Oh, and I’m also a bit of a foodie who loves experimenting with new recipes in the kitchen! 🍳✨
-
-Let’s connect and create something extraordinary together—whether it’s about tech, design, AI, or even a recipe swap. 🌍💻🎨 #Innovation #AI #FullStackDev #Design
+Hey there! 👋 I'm a passionate Full Stack Developer, Graphic Designer, and a Machine Learning & AI enthusiast who loves transforming ideas into innovative solutions. 🚀 As an Innovator at Kabarak University and an Intern at HealthIT Organization, I’m committed to pushing boundaries in tech and healthcare. When I’m not coding dynamic web apps, designing eye-catching graphics, or training AI models, you’ll find me brainstorming the next big idea 💡 or enjoying a thought-provoking documentary. 🎥 Oh, and I’m also a bit of a foodie who loves experimenting with new recipes in the kitchen! 🍳✨. Let’s connect and create something extraordinary together—whether it’s about tech, design, AI, or even a recipe swap. 🌍💻🎨 #Innovation #AI #FullStackDev #Design
 
 <img align="right" alt="GIF" src="https://github.com/Faqih001/Faqih001/blob/main/coding.gif?raw=true" width="408" height="318" />
 
