@@ -15,7 +15,9 @@ Hey there! 👋 I'm a passionate Full Stack Developer, Graphic Designer, and a M
 When I’m not coding dynamic web apps, designing eye-catching graphics, or training AI models, you’ll find me brainstorming the next big idea 💡 or enjoying a thought-provoking documentary. 🎥 Oh, and I’m also a bit of a foodie who loves experimenting with new recipes in the kitchen! 🍳✨
 
 Let’s connect and create something extraordinary together—whether it’s about tech, design, AI, or even a recipe swap. 🌍💻🎨 #Innovation #AI #FullStackDev #Design
-<img align="right" alt="GIF" src="https://github.com/mendsalbert/mendsalbert/blob/main/coding.gif?raw=true" width="408" height="318" />
+
+<img align="right" alt="GIF" src="https://github.com/Faqih001/Faqih001/blob/main/coding.gif?raw=true" width="408" height="318" />
+
   
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
