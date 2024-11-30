@@ -9,7 +9,31 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mendsalbert.mendsalbert)
 
-Hey there! 👋 I'm a passionate Full Stack Developer, Graphic Designer, and a Machine Learning & AI enthusiast who loves transforming ideas into innovative solutions. 🚀 As an Innovator at Kabarak University and an Intern at HealthIT Organization, I’m committed to pushing boundaries in tech and healthcare. When I’m not coding dynamic web apps, designing eye-catching graphics, or training AI models, you’ll find me brainstorming the next big idea 💡 or enjoying a thought-provoking documentary. 🎥 Oh, and I’m also a bit of a foodie who loves experimenting with new recipes in the kitchen! 🍳✨. Let’s connect and create something extraordinary together—whether it’s about tech, design, AI, or even a recipe swap. 🌍💻🎨 #Innovation #AI #FullStackDev #Design
+Hey there! 👋 I'm a highly skilled **Software Engineer**, **UI/UX Designer**, and **Data Analyst** with a passion for transforming complex problems into innovative, user-centered solutions. 🚀 Currently serving as an **Innovator at Kabarak University** and an **Intern at HealthIT Organization**, I leverage my diverse expertise to deliver impactful results in the tech and healthcare sectors.
+
+---
+
+### **Key Skills & Expertise**:
+- **Full Stack Development**: Proficient in building scalable web applications using technologies like **JavaScript**, **React**, **Node.js**, **Python**, **TypeScript**, and **Next.js**.
+- **UI/UX Design**: Skilled in crafting intuitive, user-centric interfaces using tools like **Figma**, **Adobe XD**, **Sketch**, and **Photoshop**, with a focus on accessibility and usability.
+- **Data Analysis & Visualization**: Experienced in extracting insights from data using **Python**, **R**, **SQL**, and visualization tools like **Tableau**, **Power BI**, and **Matplotlib**.
+- **Machine Learning & AI**: Proficient in designing and implementing AI models with frameworks like **TensorFlow**, **PyTorch**, and **Scikit-Learn** to solve real-world problems.
+- **Database Management**: Experienced with **MongoDB**, **PostgreSQL**, and **MySQL**, ensuring efficient data storage and retrieval.
+- **Agile Development**: Familiar with **Agile/Scrum methodologies**, enabling effective collaboration and iterative product delivery.
+- **Version Control & Collaboration**: Expert in **Git**, **GitHub**, and **GitLab** for managing codebases and collaborating with cross-functional teams.
+
+---
+
+### **What I Bring to the Table**:
+- An eye for detail and creativity that ensures seamless integration of form and function in both design and development.
+- Strong problem-solving skills honed through developing data-driven solutions and optimizing user experiences.
+- Exceptional collaboration and communication abilities, enabling me to work effectively in interdisciplinary teams and deliver results that exceed expectations.
+
+Beyond my professional endeavors, I enjoy exploring thought-provoking documentaries 🎥 and brainstorming innovative ideas 💡 to stay ahead of the curve in technology and design. My proactive mindset and dedication to continuous learning make me a valuable asset to any forward-thinking organization.
+
+I’m excited to connect with professionals and organizations where my expertise in **Software Engineering**, **UI/UX Design**, and **Data Analysis** can drive impactful innovation. Let’s create something extraordinary together! 🌍💻🎨📊
+
+#Innovation #SoftwareEngineering #UIUXDesign #DataAnalysis #MachineLearning
 
 <img align="right" alt="GIF" src="https://github.com/Faqih001/Faqih001/blob/main/coding.gif?raw=true" width="408" height="318" />
 
