@@ -59,7 +59,7 @@ I’m excited to connect with professionals and organizations where my expertise
 - 📝 I regulary write articles on [blog.fakiiahmad.com](https://dev.to/fakii254);
 - 📫 How to reach me: [fakiiahmad.com](https://my-portfolio-two-sigma-37.vercel.app/);
 - 📝 [Resume](https://my-portfolio-two-sigma-37.vercel.app/).
-- 🎵 My Learning Project: [Amify Music WebApp](https://my-spotify-848r.onrender.com/)
+- 🎵 My Learning Project: [Amify Music WebApp](https://amify-music-app.onrender.com/)
 
 </br>
 
