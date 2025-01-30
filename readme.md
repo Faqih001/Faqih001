@@ -53,7 +53,7 @@ I’m excited to connect with professionals and organizations where my expertise
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
+- 👨🏻‍💻 I’m currently working on something cool: [AmiTech Donation Web using Mpesa](https://amitech-donations.onrender.com/);
 - 🚀 I’m currently Building machine learning projects;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [blog.fakiiahmad.com](https://dev.to/fakii254);
