@@ -11,11 +11,6 @@
 
 Hey there! 👋 I'm a highly skilled **Software Engineer**, **UI/UX Designer**, and **Data Analyst** with a passion for transforming complex problems into innovative, user-centered solutions. 🚀 Currently serving as an **Innovator at Kabarak University** and an **Intern at HealthIT Organization**, I leverage my diverse expertise to deliver impactful results in the tech and healthcare sectors.
 
----
-
-# 🚀 **Faqih Ahmad - Full-Stack & Frontend Engineer**  
-
-## **👨‍💻 About Me**  
 Passionate and detail-oriented **Web & Android Fullstack Engineer** with expertise in **JavaScript, TypeScript, React, Flutter, HTML, and CSS**. I have a proven track record of building **user-friendly, accessible, and high-performance** applications. My experience includes designing and implementing **well-tested, scalable fullstack solutions** for web and mobile, focusing on **intuitive user experiences and seamless API integration**.  
 
 I thrive in **globally distributed teams**, contributing to **open-source projects**, and advocating for best practices in **accessibility, performance, and responsive design**. I'm eager to contribute to **Canonical’s** mission of delivering exceptional user experiences through **Vanilla Framework** and innovative technologies like **Flutter**.  
