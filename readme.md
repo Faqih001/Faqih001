@@ -13,27 +13,82 @@ Hey there! 👋 I'm a highly skilled **Software Engineer**, **UI/UX Designer**, 
 
 ---
 
-### **Key Skills & Expertise**:
-- **Full Stack Development**: Proficient in building scalable web applications using technologies like **JavaScript**, **React**, **Node.js**, **Python**, **TypeScript**, and **Next.js**.
-- **UI/UX Design**: Skilled in crafting intuitive, user-centric interfaces using tools like **Figma**, **Adobe XD**, **Sketch**, and **Photoshop**, with a focus on accessibility and usability.
-- **Data Analysis & Visualization**: Experienced in extracting insights from data using **Python**, **R**, **SQL**, and visualization tools like **Tableau**, **Power BI**, and **Matplotlib**.
-- **Machine Learning & AI**: Proficient in designing and implementing AI models with frameworks like **TensorFlow**, **PyTorch**, and **Scikit-Learn** to solve real-world problems.
-- **Database Management**: Experienced with **MongoDB**, **PostgreSQL**, and **MySQL**, ensuring efficient data storage and retrieval.
-- **Agile Development**: Familiar with **Agile/Scrum methodologies**, enabling effective collaboration and iterative product delivery.
-- **Version Control & Collaboration**: Expert in **Git**, **GitHub**, and **GitLab** for managing codebases and collaborating with cross-functional teams.
+# 🚀 **Faqih Ahmad - Full-Stack & Frontend Engineer**  
+
+## **👨‍💻 About Me**  
+Passionate and detail-oriented **Web & Android Fullstack Engineer** with expertise in **JavaScript, TypeScript, React, Flutter, HTML, and CSS**. I have a proven track record of building **user-friendly, accessible, and high-performance** applications. My experience includes designing and implementing **well-tested, scalable fullstack solutions** for web and mobile, focusing on **intuitive user experiences and seamless API integration**.  
+
+I thrive in **globally distributed teams**, contributing to **open-source projects**, and advocating for best practices in **accessibility, performance, and responsive design**. I'm eager to contribute to **Canonical’s** mission of delivering exceptional user experiences through **Vanilla Framework** and innovative technologies like **Flutter**.  
 
 ---
 
-### **What I Bring to the Table**:
-- An eye for detail and creativity that ensures seamless integration of form and function in both design and development.
-- Strong problem-solving skills honed through developing data-driven solutions and optimizing user experiences.
-- Exceptional collaboration and communication abilities, enabling me to work effectively in interdisciplinary teams and deliver results that exceed expectations.
+## **⚡ Key Skills & Expertise**  
 
-Beyond my professional endeavors, I enjoy exploring thought-provoking documentaries 🎥 and brainstorming innovative ideas 💡 to stay ahead of the curve in technology and design. My proactive mindset and dedication to continuous learning make me a valuable asset to any forward-thinking organization.
+### **🌐 Web Application Fullstack Development**  
+- **Frontend**: JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, SASS  
+- **State Management**: Redux, Context API, RxJS  
+- **Backend**: Node.js, Express.js, Python (FastAPI, Django), Firebase Functions  
+- **Databases**: MongoDB, PostgreSQL, MySQL, Firebase Firestore  
+- **API Integration**: RESTful APIs, GraphQL, Axios, Fetch  
+- **Authentication & Security**: JWT, OAuth, Firebase Authentication, role-based access control  
+- **Testing & Debugging**: Jest, Cypress, React Testing Library, Postman  
 
-I’m excited to connect with professionals and organizations where my expertise in **Software Engineering**, **UI/UX Design**, and **Data Analysis** can drive impactful innovation. Let’s create something extraordinary together! 🌍💻🎨📊
+### **📱 Android Application Fullstack Development**  
+- **Mobile Frameworks**: Flutter, Dart, React Native  
+- **State Management**: Provider, Riverpod, Bloc, Redux  
+- **Backend Integration**: Firebase, Node.js, Django REST Framework (DRF)  
+- **Database & Storage**: Firebase Firestore, SQLite, Supabase, MongoDB  
+- **API Integration**: RESTful APIs, GraphQL, WebSockets  
+- **Authentication & Security**: Firebase Authentication, Google Sign-In, OAuth  
+- **Testing & Performance Optimization**: Debugging with Flutter DevTools, automated testing with Flutter Test, UI testing  
 
-#Innovation #SoftwareEngineering #UIUXDesign #DataAnalysis #MachineLearning
+### **🖥️ Frontend Development**  
+- **Technologies**: JavaScript (ES6+), TypeScript, React, Flutter, Dart, HTML5, CSS3, SASS, Tailwind CSS, Bootstrap  
+- **Performance Optimization**: Lazy loading, code splitting, caching strategies, accessibility (WCAG), performance profiling  
+- **UI/UX & Design Tools**: Figma, Material UI, Adobe XD  
+
+### **⚙️ Backend & Data Technologies**  
+- **Database Management**: MongoDB, PostgreSQL, MySQL, Firebase Firestore  
+- **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-Learn  
+- **Data Analysis & Visualization**: Python, R, SQL, Tableau, Power BI, Matplotlib  
+
+### **🔧 Development & Collaboration**  
+- **Version Control & CI/CD**: Git, GitHub, GitLab, GitHub Actions  
+- **Development Practices**: Agile (Scrum, Kanban), Jira, technical documentation, code reviews  
+- **Operating Systems**: Linux (Ubuntu, Debian), Windows  
+- **Other**: Open-source contributions, REST API design, container technologies (Docker basics)  
+
+---
+
+## **🎯 What I Bring to the Table**  
+✅ **User-Centric Development**: Focus on **accessibility, performance, and responsive design** for an exceptional UX.  
+✅ **Problem-Solving & Analytical Thinking**: Breaking down complex problems into **efficient, scalable solutions**.  
+✅ **Collaboration & Communication**: Experience in **globally distributed teams**, contributing to **open-source projects**, and mentoring developers.  
+✅ **Adaptability & Continuous Learning**: Passionate about **emerging technologies** like Flutter and TypeScript.  
+✅ **Technical Advocacy**: Dedicated to **accessibility, performance optimization, and software best practices**.  
+
+---
+
+## **🔥 Passionate About...**  
+- 🚀 **Open-source software**, enhancing web and mobile app performance and accessibility.  
+- 💡 **Flutter & React**, exploring cross-platform development for enterprise applications.  
+- 🐧 **Linux Development & Deployment**, aligning with **Canonical’s** Ubuntu-based solutions.  
+
+---
+
+## **📫 Connect With Me**  
+- **GitHub**: [Faqih001](https://github.com/Faqih001)  
+- **LinkedIn**: [Fakii Ahmad](https://www.linkedin.com/in/fakii-ahmad-a96a84213/)  
+- **Email**: [fakiiahmad001@gmail.com](mailto:fakiiahmad001@gmail.com)  
+
+---
+
+## 📄 **Download My Resume**  
+[📥 Click here to download](https://docs.google.com/document/d/13SSAtepBus2e5zSipSqKQQ3BZetnkC0e/edit?usp=sharing&ouid=106720930584260395877&rtpof=true&sd=true)  
+
+---
+
+⭐ **Let’s connect and build something amazing together!** 🚀✨  
 
 <img align="right" alt="GIF" src="https://github.com/Faqih001/Faqih001/blob/main/coding.gif?raw=true" width="408" height="318" />
 
