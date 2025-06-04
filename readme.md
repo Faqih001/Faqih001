@@ -110,6 +110,7 @@ I thrive in **globally distributed teams**, contributing to **open-source projec
 - 📫 How to reach me: [fakiiahmad.com](https://my-portfolio-two-sigma-37.vercel.app/);
 - 📝 [Resume](https://my-portfolio-two-sigma-37.vercel.app/).
 - 🎵 My Learning Project: [Amify Music WebApp](https://amify-music-app.onrender.com/)
+- 💹 Try out my Crypto project: [CryptoBuddy](https://cryptobuddy254.streamlit.app/)
 
 </br>
 
