@@ -111,6 +111,7 @@ I thrive in **globally distributed teams**, contributing to **open-source projec
 - 📝 [Resume](https://my-portfolio-two-sigma-37.vercel.app/).
 - 🎵 My Learning Project: [Amify Music WebApp](https://amify-music-app.onrender.com/)
 - 💹 Try out my Crypto project: [CryptoBuddy](https://cryptobuddy254.streamlit.app/)
+- 🧠 My HealthTech Project: [Ovarian Cyst ML API](https://ovarian-cyst-ml-api.streamlit.app/)
 
 </br>
 
