@@ -115,6 +115,50 @@ I thrive in **globally distributed teams**, contributing to **open-source projec
 
 </br>
 
+## 🌍 Live Projects & Demos  
+
+- 🎓 **Agri-Senti WebApp**  
+  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://nakuru-agri-senti-webapp.vercel.app/landing)  
+  *Agri-tech tool connecting farmers with buyers, optimizing supply chains and food access.*  
+
+- 📊 **PMS (Project Management System)**  
+  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://argon-pms.vercel.app/)  
+  *ERP-style workflow and collaboration platform with task dashboards.*  
+
+- 🏥 **Medicare254**  
+  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://medicare254.vercel.app/)  
+  *Digital healthcare platform for secure patient record management.*  
+
+- 📌 **Jira Vision**  
+  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://v0-jiravision-dashboard.vercel.app/)  
+  *Task and workflow management dashboard with real-time reporting.*  
+
+- 📝 **Web Capture Tool**  
+  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://structure-web-capture-tool.vercel.app/)  
+  *Lightweight structured data capture app for offline/field use.*  
+
+- 📚 **Parent Assignment Helper**  
+  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://parent-assignment-helper.vercel.app/)  
+  *Education support app for parents and learners.*  
+
+- 💝 **AmiTech Donation Web (Mpesa)**  
+  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=render)](https://amitech-donations.onrender.com/)  
+  *Donation platform with Mpesa payment integration.*  
+
+- 🎶 **Amify Music WebApp**  
+  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=render)](https://amify-music-app.onrender.com/)  
+  *Music streaming web app for learning and experimentation.*  
+
+- 💹 **CryptoBuddy**  
+  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=streamlit)](https://cryptobuddy254.streamlit.app/)  
+  *Crypto analytics and portfolio tracker built on Streamlit.*  
+
+- 🧠 **Ovarian Cyst ML API**  
+  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=streamlit)](https://ovarian-cyst-ml-api.streamlit.app/)  
+  *HealthTech ML project for medical diagnostics.*  
+
+</br>
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
