@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://developer-portfolio-five-dusky.vercel.app/" target="_blank">Fakii Mohammed</a>
+### Hi there, I'm <a href="https://my-portfolio-two-sigma-37.vercel.app/" target="_blank">Fakii Mohammed</a>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fakii-ahmad-a96a84213/)
@@ -17,41 +17,81 @@ I thrive in **globally distributed teams**, contributing to **open-source projec
 
 ---
 
-## **⚡ Key Skills & Expertise**  
+## ⚡ Key Skills & Expertise
 
-### **🌐 Web Application Fullstack Development**  
-- **Frontend**: JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, SASS  
-- **State Management**: Redux, Context API, RxJS  
-- **Backend**: Node.js, Express.js, Python (FastAPI, Django), Firebase Functions  
-- **Databases**: MongoDB, PostgreSQL, MySQL, Firebase Firestore  
-- **API Integration**: RESTful APIs, GraphQL, Axios, Fetch  
-- **Authentication & Security**: JWT, OAuth, Firebase Authentication, role-based access control  
-- **Testing & Debugging**: Jest, Cypress, React Testing Library, Postman  
+### 🌐 Software & Application Development
+- **Frontend**: JavaScript (ES6+), TypeScript, React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS, Bootstrap, SASS  
+- **Backend**: Node.js, Express.js, Python (FastAPI, Django), PHP (Laravel), Firebase Functions  
+- **Mobile Development**: Flutter, Dart, React Native  
+- **Architecture**: Monolithic & microservices-based applications  
+- **State Management**: Redux, Context API, RxJS, Provider, Bloc  
+- **API Integration**: RESTful APIs, GraphQL, Axios, Fetch, WebSockets  
+- **Software Engineering**: SDLC, system design, refactoring, performance tuning  
 
-### **📱 Android Application Fullstack Development**  
-- **Mobile Frameworks**: Flutter, Dart, React Native  
-- **State Management**: Provider, Riverpod, Bloc, Redux  
-- **Backend Integration**: Firebase, Node.js, Django REST Framework (DRF)  
-- **Database & Storage**: Firebase Firestore, SQLite, Supabase, MongoDB  
-- **API Integration**: RESTful APIs, GraphQL, WebSockets  
-- **Authentication & Security**: Firebase Authentication, Google Sign-In, OAuth  
-- **Testing & Performance Optimization**: Debugging with Flutter DevTools, automated testing with Flutter Test, UI testing  
+---
 
-### **🖥️ Frontend Development**  
-- **Technologies**: JavaScript (ES6+), TypeScript, React, Flutter, Dart, HTML5, CSS3, SASS, Tailwind CSS, Bootstrap  
-- **Performance Optimization**: Lazy loading, code splitting, caching strategies, accessibility (WCAG), performance profiling  
-- **UI/UX & Design Tools**: Figma, Material UI, Adobe XD  
+### 📊 Data, Systems & Information Management
+- **Databases**: PostgreSQL, MySQL, MongoDB, Firebase Firestore, SQLite  
+- **Data Handling**: Data collection, validation, cleaning, normalization, ETL workflows  
+- **Analytics & Reporting**: SQL, Python, Power BI, Tableau, Excel, Matplotlib  
+- **Dashboards & KPIs**: Monitoring systems, performance metrics, impact reporting  
+- **Enterprise & Public Systems**: ERP, MIS, HIS, CRM, LMS, NGO & government platforms  
+- **Documentation**: Data dictionaries, system documentation, SOPs  
 
-### **⚙️ Backend & Data Technologies**  
-- **Database Management**: MongoDB, PostgreSQL, MySQL, Firebase Firestore  
-- **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-Learn  
-- **Data Analysis & Visualization**: Python, R, SQL, Tableau, Power BI, Matplotlib  
+---
 
-### **🔧 Development & Collaboration**  
-- **Version Control & CI/CD**: Git, GitHub, GitLab, GitHub Actions  
-- **Development Practices**: Agile (Scrum, Kanban), Jira, technical documentation, code reviews  
+### 🤖 AI, Automation & Emerging Technologies
+- **Machine Learning & AI**: Scikit-learn, TensorFlow, PyTorch (foundational)  
+- **Generative AI**: Prompt engineering, AI-assisted development & analysis  
+- **Automation**: Workflow automation, data processing pipelines, scripts  
+- **Use Cases**: Predictive analytics, intelligent dashboards, decision support systems  
+- **AI Ethics & Governance**: Responsible AI use, bias awareness, data privacy  
+
+---
+
+### 🔐 Security, Testing & Quality Assurance
+- **Authentication & Security**: JWT, OAuth, Firebase Authentication, RBAC  
+- **Application Security**: Secure coding practices, input validation, access controls  
+- **Testing Tools**: Jest, Cypress, React Testing Library, Selenium, Postman  
+- **QA Practices**: Unit, integration, E2E, UAT, regression testing  
+- **Security Awareness**: OWASP Top 10, vulnerability mitigation, compliance basics  
+
+---
+
+### ⚙️ DevOps, Systems & Infrastructure
+- **Version Control**: Git, GitHub, GitLab  
+- **CI/CD**: GitHub Actions, Jenkins (foundational), automated deployments  
+- **Cloud Platforms**: AWS (EC2, S3), Firebase, DigitalOcean  
+- **Containers & Virtualization**: Docker (foundational), containerized workflows  
+- **Infrastructure**: Server setup, environment configuration, backups  
 - **Operating Systems**: Linux (Ubuntu, Debian), Windows  
-- **Other**: Open-source contributions, REST API design, container technologies (Docker basics)  
+
+---
+
+### 🖧 IT Support, Networking & Systems Administration
+- **IT Support**: Helpdesk operations, incident management, troubleshooting  
+- **Networking**: LAN/WAN basics, TCP/IP, DNS, DHCP, VPNs  
+- **Hardware & Software**: Installation, configuration, maintenance  
+- **ITSM Practices**: Incident, problem & change management  
+- **User Support**: Training, onboarding, system adoption  
+
+---
+
+### 🎨 UI/UX, Accessibility & User-Centered Design
+- **Design Tools**: Figma, Material UI, Adobe XD  
+- **UX Practices**: User research, usability testing, accessibility (WCAG)  
+- **Design Systems**: Consistent UI components, branding, responsiveness  
+- **Performance Optimization**: Lazy loading, code splitting, caching strategies  
+
+---
+
+### 🤝 Collaboration, Operations & Professional Skills
+- **Work Methodologies**: Agile (Scrum, Kanban), Waterfall, hybrid SDLC  
+- **Project & Ops Tools**: Jira, Asana, Trello, Google Workspace, time-tracking tools  
+- **Stakeholder Engagement**: Cross-functional collaboration, requirements gathering  
+- **Remote Work**: Distributed teams, async communication, multi-timezone delivery  
+- **Documentation**: Technical writing, SOPs, user manuals, reports  
+- **Other**: Open-source contributions, system analysis, process improvement, training & mentorship  
 
 ---
 
@@ -115,47 +155,129 @@ I thrive in **globally distributed teams**, contributing to **open-source projec
 
 </br>
 
-## 🌍 Live Projects & Demos  
+## 🌍 Live Projects, Platforms & Key Contributions  
 
-- 🎓 **Agri-Senti WebApp**  
-  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://nakuru-agri-senti-webapp.vercel.app/landing)  
-  *Agri-tech tool connecting farmers with buyers, optimizing supply chains and food access.*  
+### 🎓 Agri-Senti WebApp  
+[![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://nakuru-agri-senti-webapp.vercel.app/landing)  
+*Agri-tech platform connecting farmers with buyers to optimize supply chains, pricing transparency, and market access.*
 
-- 📊 **PMS (Project Management System)**  
-  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://argon-pms.vercel.app/)  
-  *ERP-style workflow and collaboration platform with task dashboards.*  
+---
 
-- 🏥 **Medicare254**  
-  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://medicare254.vercel.app/)  
-  *Digital healthcare platform for secure patient record management.*  
+### 📊 Project Management System (PMS)  
+[![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://argon-pms.vercel.app/)  
+*Enterprise-grade workflow and collaboration platform with task dashboards, role-based access control, audit logs, and reporting.*
 
-- 📌 **Jira Vision**  
-  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://v0-jiravision-dashboard.vercel.app/)  
-  *Task and workflow management dashboard with real-time reporting.*  
+---
 
-- 📝 **Web Capture Tool**  
-  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://structure-web-capture-tool.vercel.app/)  
-  *Lightweight structured data capture app for offline/field use.*  
+### 📌 Jira Vision Dashboard  
+[![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://v0-jiravision-dashboard.vercel.app/)  
+*Real-time task and workflow management dashboard with analytics, performance metrics, and data visualization.*
 
-- 📚 **Parent Assignment Helper**  
-  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://parent-assignment-helper.vercel.app/)  
-  *Education support app for parents and learners.*  
+---
 
-- 💝 **AmiTech Donation Web (Mpesa)**  
-  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=render)](https://amitech-donations.onrender.com/)  
-  *Donation platform with Mpesa payment integration.*  
+### 🏥 Medicare254  
+[![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://medicare254.vercel.app/)  
+*Digital healthcare platform for secure patient record management with RBAC and compliance-ready workflows.*
 
-- 🎶 **Amify Music WebApp**  
-  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=render)](https://amify-music-app.onrender.com/)  
-  *Music streaming web app for learning and experimentation.*  
+---
 
-- 💹 **CryptoBuddy**  
-  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=streamlit)](https://cryptobuddy254.streamlit.app/)  
-  *Crypto analytics and portfolio tracker built on Streamlit.*  
+### 🧠 Ovarian Cyst ML Diagnostic API  
+[![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=streamlit)](https://ovarian-cyst-ml-api.streamlit.app/)  
+*Machine learning–powered health diagnostics solution with inference pipelines and data processing.*
 
-- 🧠 **Ovarian Cyst ML API**  
-  [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=streamlit)](https://ovarian-cyst-ml-api.streamlit.app/)  
-  *HealthTech ML project for medical diagnostics.*  
+---
+
+### 🩺 KenyaEMR / OpenMRS 3.x (O3)  
+- 🌐 UAT: https://uat.kenyahmis.org/openmrs/spa/login  
+- 📦 Releases: https://github.com/palladiumkenya/kenyahmis-releases/releases/tag/v19.2.2  
+*Contributed to KenyaEMR/OpenMRS implementations supporting national Health Information Systems (HIS), interoperability, testing, and deployments.*
+
+---
+
+### 🧬 eCHIS (Community Health Information System)  
+- 🔗 https://github.com/Faqih001/echis-2.0-integration  
+*Community health data integration project supporting frontline health workers and national reporting.*
+
+---
+
+### 👥 iHRIS Kenya  
+- 🌐 Demo: https://v5-demo.ihris.org/  
+- 📦 Repo: https://github.com/Faqih001/iHRIS-Kenya  
+*Human Resource Information System supporting health workforce management and reporting.*
+
+---
+
+### 🩸 DamuKE  
+- 🌐 https://damuke.health.go.ke/  
+*National blood transfusion and donation management platform (contributor/support role).*
+
+---
+
+### 🧠 Mental Health Portal – Kenya  
+- 🌐 https://mental.health.go.ke/  
+*Public digital platform supporting mental health awareness, resources, and access to services.*
+
+---
+
+### 📈 KHRO – Kenya Health Research Observatory  
+- 🌐 https://www.health.go.ke/ (KHRO section)  
+*Health research data aggregation and public reporting platform.*
+
+---
+
+### 🚰 RUSH (Akvo RTMIS)  
+- 🌐 https://rtmis.akvo.org/  
+*Real-time monitoring information system for water, sanitation, and public infrastructure projects.*
+
+---
+
+### 🧾 Web Capture Tool (PWA)  
+[![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://structure-web-capture-tool.vercel.app/)  
+*Offline-friendly structured data capture solution for field operations using local storage.*
+
+---
+
+### 📚 Parent Assignment Helper  
+[![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://parent-assignment-helper.vercel.app/)  
+*Education support platform for parents and learners with assignment tracking.*
+
+---
+
+### 💝 AmiTech Donation Platform (Mpesa Integration)  
+[![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=render)](https://amitech-donations.onrender.com/)  
+*Secure donation platform with real-time Mpesa payments, transaction validation, and donor tracking.*
+
+---
+
+### 💹 CryptoBuddy – Analytics Platform  
+[![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=streamlit)](https://cryptobuddy254.streamlit.app/)  
+*Cryptocurrency analytics and portfolio tracking system with dashboards and data aggregation.*
+
+---
+
+### 🏘️ Guriflex – Real Estate Marketplace  
+- 🌐 https://guriflex.co.ke/  
+*Property marketplace for buying, renting, and selling in Kenya with verified listings and dashboards.*
+
+---
+
+### 🏢 Cardiff Global Limited (CGL) – Corporate Website  
+- 🌐 https://www.cgl-support.com/  
+*Enterprise website for logistics, security, and infrastructure services across East & Central Africa.*
+
+---
+
+### 🏗️ Kulthum Limited – Corporate Platform  
+- 🌐 https://www.kulthumlimited.co.ke/  
+*Corporate website and operational dashboards for diversified services including construction, catering, and waste management.*
+
+---
+
+### 🤱 MamaShub – Maternal Health Digital Platform (MOH 216)
+- 📦 https://github.com/Faqih001/mamashub-web  
+*Digital health platform built on Google Open Health Stack to digitize the Mother–Child Booklet (MOH 216), supporting antenatal and postnatal care data capture, reporting, and continuity of care for CHVs, ANC nurses, mothers, and caregivers.*
+
+---
 
 </br>
 
