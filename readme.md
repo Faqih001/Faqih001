@@ -157,6 +157,8 @@ I thrive in **globally distributed teams**, contributing to **open-source projec
 
 ## 🌍 Live Projects, Platforms & Key Contributions  
 
+## 🌍 Live Projects, Platforms & Key Contributions  
+
 ### 🎓 Agri-Senti WebApp  
 [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://nakuru-agri-senti-webapp.vercel.app/landing)  
 *Agri-tech platform connecting farmers with buyers to optimize supply chains, pricing transparency, and market access.*
@@ -177,69 +179,67 @@ I thrive in **globally distributed teams**, contributing to **open-source projec
 
 ### 🏥 Medicare254  
 [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://medicare254.vercel.app/)  
-*Digital healthcare platform for secure patient record management with RBAC and compliance-ready workflows.*
+*Digital healthcare platform for secure patient record management with role-based access control and compliance-ready workflows.*
 
 ---
 
 ### 🧠 Ovarian Cyst ML Diagnostic API  
 [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=streamlit)](https://ovarian-cyst-ml-api.streamlit.app/)  
-*Machine learning–powered health diagnostics solution with inference pipelines and data processing.*
+*Machine learning–powered health diagnostics solution with data preprocessing, inference pipelines, and result visualization.*
 
 ---
 
 ### 🩺 KenyaEMR / OpenMRS 3.x (O3)  
-- 🌐 UAT: https://uat.kenyahmis.org/openmrs/spa/login  
-- 📦 Releases: https://github.com/palladiumkenya/kenyahmis-releases/releases/tag/v19.2.2  
-*Contributed to KenyaEMR/OpenMRS implementations supporting national Health Information Systems (HIS), interoperability, testing, and deployments.*
+[![Platform](https://img.shields.io/badge/Platform-OpenMRS-blue?style=for-the-badge&logo=openid)](https://uat.kenyahmis.org/openmrs/spa/login)  
+*Contributions to KenyaEMR/OpenMRS supporting national health information systems, interoperability, testing, and deployments.*
 
 ---
 
 ### 🧬 eCHIS (Community Health Information System)  
-- 🔗 https://github.com/Faqih001/echis-2.0-integration  
+[![Repository](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Faqih001/echis-2.0-integration)  
 *Community health data integration project supporting frontline health workers and national reporting.*
 
 ---
 
 ### 👥 iHRIS Kenya  
-- 🌐 Demo: https://v5-demo.ihris.org/  
-- 📦 Repo: https://github.com/Faqih001/iHRIS-Kenya  
-*Human Resource Information System supporting health workforce management and reporting.*
+[![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://v5-demo.ihris.org/)  
+*Human Resource Information System for health workforce management, deployment tracking, and reporting.*
 
 ---
 
 ### 🩸 DamuKE  
-- 🌐 https://damuke.health.go.ke/  
-*National blood transfusion and donation management platform (contributor/support role).*
+[![Platform](https://img.shields.io/badge/Platform-Visit-red?style=for-the-badge)](https://damuke.health.go.ke/)  
+*National blood donation and transfusion management platform supporting donor-to-recipient workflows.*
 
 ---
 
 ### 🧠 Mental Health Portal – Kenya  
-- 🌐 https://mental.health.go.ke/  
-*Public digital platform supporting mental health awareness, resources, and access to services.*
+[![Platform](https://img.shields.io/badge/Platform-Visit-blue?style=for-the-badge)](https://mental.health.go.ke/)  
+*Public digital platform providing mental health information, resources, and access to services.*
 
 ---
 
 ### 📈 KHRO – Kenya Health Research Observatory  
-- 🌐 https://www.health.go.ke/ (KHRO section)  
-*Health research data aggregation and public reporting platform.*
+[![Platform](https://img.shields.io/badge/Platform-Visit-blue?style=for-the-badge)](https://www.health.go.ke/)  
+*Health research data aggregation and public reporting platform under the Ministry of Health.*
 
 ---
 
 ### 🚰 RUSH (Akvo RTMIS)  
-- 🌐 https://rtmis.akvo.org/  
-*Real-time monitoring information system for water, sanitation, and public infrastructure projects.*
+[![Platform](https://img.shields.io/badge/Platform-Visit-blue?style=for-the-badge)](https://rtmis.akvo.org/)  
+*Real-time monitoring information system for water, sanitation, hygiene, and public infrastructure projects.*
 
 ---
 
 ### 🧾 Web Capture Tool (PWA)  
 [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://structure-web-capture-tool.vercel.app/)  
-*Offline-friendly structured data capture solution for field operations using local storage.*
+*Offline-friendly progressive web app for structured data capture in field operations.*
 
 ---
 
 ### 📚 Parent Assignment Helper  
 [![Live Demo](https://img.shields.io/badge/Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://parent-assignment-helper.vercel.app/)  
-*Education support platform for parents and learners with assignment tracking.*
+*Education support platform for parents and learners with assignment tracking and progress monitoring.*
 
 ---
 
@@ -256,26 +256,26 @@ I thrive in **globally distributed teams**, contributing to **open-source projec
 ---
 
 ### 🏘️ Guriflex – Real Estate Marketplace  
-- 🌐 https://guriflex.co.ke/  
-*Property marketplace for buying, renting, and selling in Kenya with verified listings and dashboards.*
+[![Platform](https://img.shields.io/badge/Platform-Visit-blue?style=for-the-badge)](https://guriflex.co.ke/)  
+*Real estate marketplace for buying, renting, and selling properties in Kenya with verified listings.*
 
 ---
 
 ### 🏢 Cardiff Global Limited (CGL) – Corporate Website  
-- 🌐 https://www.cgl-support.com/  
-*Enterprise website for logistics, security, and infrastructure services across East & Central Africa.*
+[![Platform](https://img.shields.io/badge/Platform-Visit-blue?style=for-the-badge)](https://www.cgl-support.com/)  
+*Corporate website supporting logistics, security, and infrastructure services across East & Central Africa.*
 
 ---
 
 ### 🏗️ Kulthum Limited – Corporate Platform  
-- 🌐 https://www.kulthumlimited.co.ke/  
-*Corporate website and operational dashboards for diversified services including construction, catering, and waste management.*
+[![Platform](https://img.shields.io/badge/Platform-Visit-blue?style=for-the-badge)](https://www.kulthumlimited.co.ke/)  
+*Corporate platform and dashboards for diversified operations including construction, catering, and waste management.*
 
 ---
 
-### 🤱 MamaShub – Maternal Health Digital Platform (MOH 216)
-- 📦 https://github.com/Faqih001/mamashub-web  
-*Digital health platform built on Google Open Health Stack to digitize the Mother–Child Booklet (MOH 216), supporting antenatal and postnatal care data capture, reporting, and continuity of care for CHVs, ANC nurses, mothers, and caregivers.*
+### 🤱 MamaShub – Maternal Health Digital Platform (MOH 216)  
+[![Repository](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Faqih001/mamashub-web)  
+*Maternal and child health platform built on Google Open Health Stack to digitize the Mother–Child Booklet (MOH 216), supporting ANC/PNC data capture, reporting, and continuity of care.*
 
 ---
 
